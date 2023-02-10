@@ -1,0 +1,1 @@
+- Using Go's native tools to check email validity
